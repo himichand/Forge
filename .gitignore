@@ -1,0 +1,9 @@
+
+# Ignore all files in the node_modules folder
+node_modules/
+
+# Ignore secrets like passwords and API keys
+.env
+
+# Ignore Mac-created files
+.DS_Store
